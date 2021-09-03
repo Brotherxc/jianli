@@ -5,8 +5,6 @@
     <title>个人简历</title>
 </head>
 
-本人照片：https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=false&word=%E5%BD%AD%E4%BA%8E%E6%99%8F%E5%9B%BE%E7%89%87&step_word=&hs=0&pn=0&spn=0&di=56430&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=0&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=undefined&cs=2436136077%2C2689499119&os=525901641%2C476651172&simid=3454643784%2C497772712&adpicid=0&lpn=0&ln=3214&fr=&fmq=1630650173589_R&fm=&ic=undefined&s=undefined&hd=undefined&latest=undefined&copyright=undefined&se=&sme=&tab=0&width=undefined&height=undefined&face=undefined&ist=&jit=&cg=star&bdtype=0&oriquery=&objurl=https%3A%2F%2Fgimg2.baidu.com%2Fimage_search%2Fsrc%3Dhttp%3A%2F%2F5b0988e595225.cdn.sohucs.com%2Fq_70%2Cc_zoom%2Cw_640%2Fimages%2F20180611%2Feca0bdcc78314ef6a7b7a068acd38f31.jpeg%26refer%3Dhttp%3A%2F%2F5b0988e595225.cdn.sohucs.com%26app%3D2002%26size%3Df9999%2C10000%26q%3Da80%26n%3D0%26g%3D0n%26fmt%3Djpeg%3Fsec%3D1633242180%26t%3Db77e820a1cc6b50dd71a39e78a6eaaf6&fromurl=ippr_z2C%24qAzdH3FAzdH3F4_z%26e3Bf5i7_z%26e3Bv54AzdH3FwAzdH3Fdnc88bd0a_m0m098&gsm=1&rpstart=0&rpnum=0&islist=&querylist=&nojc=undefined
-
 <body>
     <h1>简历</h1>
     <hr>
@@ -45,6 +43,3 @@
     <p>语言技能：英语CET6、重庆话、english单词的读</p>
     <p><small>办公技能：熟练使用Office 办公软件、Vsiual Studio Code、Github</small></p>
     <p>搜索证书：<input /></p><br/>
-    
-</body>
-</html>
